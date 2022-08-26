@@ -1,9 +1,9 @@
 
-📝 Descrição
+📝 Descrição:
 Exercício Feito na matéria de Lógica de Programação.
 
-📚 Funcionalidades
+📚 Funcionalidades:
 Resolve uma Equação do Segundo Grau.
 
-🔧 Tecnologias utilizadas
+🔧 Tecnologias utilizadas:
 IDE IntelliJ
